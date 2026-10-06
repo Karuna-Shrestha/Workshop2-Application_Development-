@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Documents\WEEK6\WORKSHOP\TASK6\bin\Debug\net10.0\TASK6.exe
+C:\Users\Lenovo\Documents\WEEK6\WORKSHOP\TASK6\bin\Debug\net10.0\TASK6.deps.json
+C:\Users\Lenovo\Documents\WEEK6\WORKSHOP\TASK6\bin\Debug\net10.0\TASK6.runtimeconfig.json
+C:\Users\Lenovo\Documents\WEEK6\WORKSHOP\TASK6\bin\Debug\net10.0\TASK6.dll
+C:\Users\Lenovo\Documents\WEEK6\WORKSHOP\TASK6\bin\Debug\net10.0\TASK6.pdb
+C:\Users\Lenovo\Documents\WEEK6\WORKSHOP\TASK6\obj\Debug\net10.0\TASK6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\WEEK6\WORKSHOP\TASK6\obj\Debug\net10.0\TASK6.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\WEEK6\WORKSHOP\TASK6\obj\Debug\net10.0\TASK6.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\WEEK6\WORKSHOP\TASK6\obj\Debug\net10.0\TASK6.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\WEEK6\WORKSHOP\TASK6\obj\Debug\net10.0\TASK6.dll
+C:\Users\Lenovo\Documents\WEEK6\WORKSHOP\TASK6\obj\Debug\net10.0\refint\TASK6.dll
+C:\Users\Lenovo\Documents\WEEK6\WORKSHOP\TASK6\obj\Debug\net10.0\TASK6.pdb
+C:\Users\Lenovo\Documents\WEEK6\WORKSHOP\TASK6\obj\Debug\net10.0\TASK6.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\WEEK6\WORKSHOP\TASK6\obj\Debug\net10.0\ref\TASK6.dll
